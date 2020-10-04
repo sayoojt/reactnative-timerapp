@@ -1,4 +1,4 @@
-# reactnative-timerapp
+# reactnative-timerapp - Mobile App
 
 This is simple timer app in react native for Android and IOS using expo. 
 
